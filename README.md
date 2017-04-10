@@ -26,12 +26,12 @@ Please wait a minute. It will create `data` folder containing cleaned **.csv** f
 In a terminal or command window, navigate to the top-level project directory `JData` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook jdata.ipynb
+ipython notebook prepare.ipynb
 ```
 
 or
 ```bash
-jupyter notebook jdata.ipynb
+jupyter notebook prepare.ipynb
 ```
 
 This will open the Jupyter Notebook software and project file in your browser.
